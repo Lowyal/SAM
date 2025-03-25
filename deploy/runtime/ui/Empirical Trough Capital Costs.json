@@ -717,7 +717,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -887,7 +887,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/kWe"
+                    "String": "€/kWe"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -966,7 +966,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -1132,7 +1132,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -1215,7 +1215,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -1298,7 +1298,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -1464,7 +1464,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -1547,7 +1547,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -1634,7 +1634,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/kWe"
+                    "String": "€/kWe"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -1796,7 +1796,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -1966,7 +1966,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/m2"
+                    "String": "€/m2"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -2045,7 +2045,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -2211,7 +2211,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -2294,7 +2294,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -2377,7 +2377,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -2543,7 +2543,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -2626,7 +2626,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -2713,7 +2713,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/kWe"
+                    "String": "€/kWe"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -2958,7 +2958,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3124,7 +3124,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3294,7 +3294,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/m2"
+                    "String": "€/m2"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -3373,7 +3373,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3543,7 +3543,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/m2"
+                    "String": "€/m2"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -3622,7 +3622,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3709,7 +3709,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/kWht"
+                    "String": "€/kWht"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -4053,7 +4053,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -4136,7 +4136,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -4219,7 +4219,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -4289,7 +4289,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Balance of Plant Cost per kWe",
-            "Units": "$/kWe",
+            "Units": "€/kWe",
             "Group": "Empirical Trough Capital Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4406,7 +4406,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Fossil Backup Cost per kWe",
-            "Units": "$/kWe",
+            "Units": "€/kWe",
             "Group": "Empirical Trough Capital Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4458,7 +4458,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "HTF System Cost Per m2",
-            "Units": "$/m2",
+            "Units": "€/m2",
             "Group": "Empirical Trough Capital Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4575,7 +4575,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Power Plant Cost per kWe",
-            "Units": "$/kWe",
+            "Units": "€/kWe",
             "Group": "Empirical Trough Capital Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4666,7 +4666,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Site Improvement Cost per m2",
-            "Units": "$/m2",
+            "Units": "€/m2",
             "Group": "Empirical Trough Capital Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4705,7 +4705,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Solar Field Cost per m2",
-            "Units": "$/m2",
+            "Units": "€/m2",
             "Group": "Empirical Trough Capital Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4731,7 +4731,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Storage System Cost per kWht",
-            "Units": "$/kWht",
+            "Units": "/kWht",
             "Group": "Empirical Trough Capital Costs",
             "IndexLabels": "",
             "Flags": 3.0,

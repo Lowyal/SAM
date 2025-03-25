@@ -329,7 +329,7 @@
                 },
                 "Caption": {
                     "Type": 5.0,
-                    "String": "$/We"
+                    "String": "€/We"
                 },
                 "TextColour": {
                     "Type": 4.0,
@@ -391,7 +391,7 @@
                 },
                 "Caption": {
                     "Type": 5.0,
-                    "String": "$"
+                    "String": "€"
                 },
                 "TextColour": {
                     "Type": 4.0,
@@ -2175,7 +2175,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -2258,7 +2258,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -2309,7 +2309,7 @@
                 },
                 "Y": {
                     "Type": 3.0,
-                    "Integer": 171.0
+                    "Integer": 174.0
                 },
                 "Width": {
                     "Type": 3.0,
@@ -2341,7 +2341,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -2507,7 +2507,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3005,7 +3005,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3088,7 +3088,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3171,7 +3171,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3254,7 +3254,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3337,7 +3337,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3420,7 +3420,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3503,7 +3503,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3586,7 +3586,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3630,7 +3630,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Balance of plant cost",
-            "Units": "$/kWe",
+            "Units": "€/kWe",
             "Group": "ETES Capital Costs",
             "IndexLabels": "",
             "Flags": 2.0,
@@ -3656,7 +3656,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Power cycle cost",
-            "Units": "$/kWe",
+            "Units": "€/kWe",
             "Group": "ETES Capital Costs",
             "IndexLabels": "",
             "Flags": 2.0,
@@ -3708,7 +3708,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Heater cost",
-            "Units": "$/kWt",
+            "Units": "€/kWt",
             "Group": "ETES Capital Costs",
             "IndexLabels": "",
             "Flags": 2.0,
@@ -3786,7 +3786,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Thermal energy storage cost",
-            "Units": "$/kWht",
+            "Units": "€/kWht",
             "Group": "ETES Capital Costs",
             "IndexLabels": "",
             "Flags": 2.0,
@@ -3799,7 +3799,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Balance of plant cost total",
-            "Units": "$",
+            "Units": "€",
             "Group": "ETES Capital Costs",
             "IndexLabels": "",
             "Flags": 9.0,
@@ -3812,7 +3812,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Contingency cost",
-            "Units": "$",
+            "Units": "€",
             "Group": "ETES Capital Costs",
             "IndexLabels": "",
             "Flags": 9.0,
@@ -3825,7 +3825,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Power cycle cost total",
-            "Units": "$",
+            "Units": "€",
             "Group": "ETES Capital Costs",
             "IndexLabels": "",
             "Flags": 9.0,
@@ -3851,7 +3851,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "EPC and owner cost total",
-            "Units": "$",
+            "Units": "€",
             "Group": "ETES Capital Costs",
             "IndexLabels": "",
             "Flags": 9.0,
@@ -3929,7 +3929,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Total heater cost",
-            "Units": "$",
+            "Units": "€",
             "Group": "ETES Capital Costs",
             "IndexLabels": "",
             "Flags": 9.0,
@@ -3955,7 +3955,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Land cost total",
-            "Units": "$",
+            "Units": "€",
             "Group": "ETES Capital Costs",
             "IndexLabels": "",
             "Flags": 9.0,
@@ -3968,7 +3968,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Sales tax total",
-            "Units": "$",
+            "Units": "€",
             "Group": "ETES Capital Costs",
             "IndexLabels": "",
             "Flags": 9.0,
@@ -3981,7 +3981,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Thermal energy storage cost total",
-            "Units": "$",
+            "Units": "€",
             "Group": "ETES Capital Costs",
             "IndexLabels": "",
             "Flags": 9.0,
@@ -4007,7 +4007,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Total indirect cost",
-            "Units": "$",
+            "Units": "€",
             "Group": "ETES Capital Costs",
             "IndexLabels": "",
             "Flags": 9.0,
@@ -4020,7 +4020,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Total installed cost",
-            "Units": "$",
+            "Units": "€",
             "Group": "ETES Capital Costs",
             "IndexLabels": "",
             "Flags": 9.0,

@@ -732,7 +732,7 @@
             "Version": 4.0,
             "Type": 2.0,
             "Label": "Cycle degradation penalty",
-            "Units": "$/cycle-kWh",
+            "Units": "€/cycle-kWh",
             "Group": "Battery Dispatch FOM Automated",
             "IndexLabels": "",
             "Flags": 2.0,

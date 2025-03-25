@@ -267,7 +267,7 @@
                 },
                 "Caption": {
                     "Type": 5.0,
-                    "String": "Non-fixed Cost ($)"
+                    "String": "Non-fixed Cost (€)"
                 },
                 "TextColour": {
                     "Type": 4.0,
@@ -329,7 +329,7 @@
                 },
                 "Caption": {
                     "Type": 5.0,
-                    "String": "Fixed Cost ($)"
+                    "String": "Fixed Cost (€)"
                 },
                 "TextColour": {
                     "Type": 4.0,
@@ -391,7 +391,7 @@
                 },
                 "Caption": {
                     "Type": 5.0,
-                    "String": "Total ($)"
+                    "String": "Total (€)"
                 },
                 "TextColour": {
                     "Type": 4.0,
@@ -3684,7 +3684,7 @@
                 },
                 "Caption": {
                     "Type": 5.0,
-                    "String": "Cost per capacity ($/kW)"
+                    "String": "Cost per capacity (€/kW)"
                 },
                 "TextColour": {
                     "Type": 4.0,
@@ -3746,7 +3746,7 @@
                 },
                 "Caption": {
                     "Type": 5.0,
-                    "String": "Total ($)"
+                    "String": "Total (€)"
                 },
                 "TextColour": {
                     "Type": 4.0,
@@ -4239,7 +4239,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Total installed cost per capacity",
-            "Units": "$/kW",
+            "Units": "€/kW",
             "Group": "Biopower System Cost",
             "IndexLabels": "",
             "Flags": 8.0,
@@ -4473,7 +4473,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Total installed cost",
-            "Units": "$",
+            "Units": "€",
             "Group": "Biopower System Cost",
             "IndexLabels": "",
             "Flags": 8.0,

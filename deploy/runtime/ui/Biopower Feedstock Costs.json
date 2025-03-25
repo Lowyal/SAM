@@ -423,7 +423,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dt"
+                    "String": " €/dt"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -589,7 +589,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dt"
+                    "String": " €/dt"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -755,7 +755,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/MMBtu"
+                    "String": " €/MMBtu"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -838,7 +838,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dry ton"
+                    "String": " €/dry ton"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -1087,7 +1087,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dt"
+                    "String": " €/dt"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -1253,7 +1253,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dry ton"
+                    "String": " €/dry ton"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -1502,7 +1502,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/MMBtu"
+                    "String": " €/MMBtu"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -1585,7 +1585,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dt"
+                    "String": "€$/dt"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -1751,7 +1751,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dt"
+                    "String": " €/dt"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -2000,7 +2000,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dt"
+                    "String": " €/dt"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -2249,7 +2249,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dt"
+                    "String": " €/dt"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -2415,7 +2415,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dt"
+                    "String": " €/dt"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -2581,7 +2581,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dt"
+                    "String": " €/dt"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -2747,7 +2747,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dt"
+                    "String": " €/dt"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -2913,7 +2913,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dt"
+                    "String": " €/dt"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -3079,7 +3079,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dt"
+                    "String": " €/dt"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -3245,7 +3245,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dt"
+                    "String": " €/dt"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -3494,7 +3494,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dt"
+                    "String": " €/dt"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -3660,7 +3660,7 @@
                 },
                 "Suffix": {
                     "Type": 5.0,
-                    "String": " $/dt"
+                    "String": " €/dt"
                 },
                 "ThousandsSep": {
                     "Type": 2.0,
@@ -3783,7 +3783,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Bagasse Feedstock Price ",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -3809,7 +3809,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Barley Straw Feedstock Price",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -3835,7 +3835,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Biomass Fuel Cost",
-            "Units": "$/MMBtu",
+            "Units": "€/MMBtu",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 9.0,
@@ -3848,7 +3848,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Biomass Fuel Cost",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 8.0,
@@ -3887,7 +3887,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Bituminous Coal Price",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -3913,7 +3913,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Coal Fuel Cost",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 8.0,
@@ -3952,7 +3952,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Coal Fuel Cost",
-            "Units": "$/MMBtu",
+            "Units": "€/MMBtu",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 9.0,
@@ -3965,7 +3965,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Feedstock 1 Price",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -3991,7 +3991,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Feedstock 2 Price",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4017,7 +4017,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Distance-fixed delivery cost",
-            "Units": "$/dry ton",
+            "Units": "€/dry ton",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 2.0,
@@ -4030,7 +4030,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Forest Residue Feedstock Price",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4069,7 +4069,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Herbaceous Energy Crop Price",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4095,7 +4095,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Lignite Coal Price",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4121,7 +4121,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Mill Residue Feedstock Price",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4147,7 +4147,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Rice Straw Feedstock Price",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4173,7 +4173,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Corn Stover Feedstock Price",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4199,7 +4199,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Sub-bituminous Coal Price",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4225,7 +4225,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Urban Residue Feedstock Price",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4251,7 +4251,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Distance-variable delivery cost",
-            "Units": "$/dry ton - mile",
+            "Units": "€/dry ton - mile",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 2.0,
@@ -4264,7 +4264,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Wheat Straw Feedstock Price",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 3.0,
@@ -4290,7 +4290,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Woody Energy Crop Price",
-            "Units": "$/dt",
+            "Units": "€/dt",
             "Group": "Feedstock Costs",
             "IndexLabels": "",
             "Flags": 3.0,

@@ -106,7 +106,7 @@
                 },
                 "Caption": {
                     "Type": 5.0,
-                    "String": "$"
+                    "String": "€"
                 },
                 "TextColour": {
                     "Type": 4.0,
@@ -168,7 +168,7 @@
                 },
                 "Caption": {
                     "Type": 5.0,
-                    "String": "$"
+                    "String": "€"
                 },
                 "TextColour": {
                     "Type": 4.0,
@@ -308,7 +308,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -474,7 +474,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -723,7 +723,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -806,7 +806,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -972,7 +972,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -1055,7 +1055,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -1138,7 +1138,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -1387,7 +1387,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -1553,7 +1553,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -2989,7 +2989,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3072,7 +3072,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€ "
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3155,7 +3155,7 @@
                 },
                 "Prefix": {
                     "Type": 5.0,
-                    "String": "$ "
+                    "String": "€"
                 },
                 "Suffix": {
                     "Type": 5.0,
@@ -3225,7 +3225,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Permitting EPC costs",
-            "Units": "$",
+            "Units": "€",
             "Group": "Custom Generation Capital Costs",
             "IndexLabels": "",
             "Flags": 1.0,
@@ -3290,7 +3290,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Plant cost per capacity",
-            "Units": "$/Wac",
+            "Units": "€/Wac",
             "Group": "Custom Generation Capital Costs",
             "IndexLabels": "",
             "Flags": 2.0,
@@ -3303,7 +3303,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Fixed plant cost",
-            "Units": "$",
+            "Units": "€",
             "Group": "Custom Generation Capital Costs",
             "IndexLabels": "",
             "Flags": 9.0,
@@ -3316,7 +3316,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Non-fixed system cost",
-            "Units": "$",
+            "Units": "€",
             "Group": "Custom Generation Capital Costs",
             "IndexLabels": "",
             "Flags": 9.0,
@@ -3329,7 +3329,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Engineering EPC costs",
-            "Units": "$",
+            "Units": "€",
             "Group": "Custom Generation Capital Costs",
             "IndexLabels": "",
             "Flags": 1.0,
@@ -3420,7 +3420,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Plant cost",
-            "Units": "$",
+            "Units": "€",
             "Group": "Custom Generation Capital Costs",
             "IndexLabels": "",
             "Flags": 2.0,
@@ -3446,7 +3446,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Total direct cost",
-            "Units": "$",
+            "Units": "€",
             "Group": "Custom Generation Capital Costs",
             "IndexLabels": "",
             "Flags": 9.0,
@@ -3459,7 +3459,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Total indirect cost",
-            "Units": "$",
+            "Units": "€",
             "Group": "Custom Generation Capital Costs",
             "IndexLabels": "",
             "Flags": 9.0,
@@ -3472,7 +3472,7 @@
             "Version": 4.0,
             "Type": 1.0,
             "Label": "Total installed cost",
-            "Units": "$",
+            "Units": "€",
             "Group": "Custom Generation Capital Costs",
             "IndexLabels": "",
             "Flags": 9.0,
